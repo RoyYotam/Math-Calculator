@@ -1,0 +1,109 @@
+	
+Author - Roy Yotam
+Version - 4.130
+Latest Version Date - 06/12/2021
+
+TODO -
+	(*) KEEP optimize the code at beta.
+	(*) use 'lastResult' to Ans.
+	(*) Be able to use dot!
+
+Future versions minor bugs - 
+	(*) not yet able to use memory, ans.
+	(*) not yet able to use touch.
+	(*) delete on touch doesnt work on first touch.
+	(*) a//b give bad value.
+
+	
+What's new?
+V 4.130
+	(*) bugs fixed.
+
+V 4.100
+	(*) Touch is now available!
+	(*) Double delete to cc.
+	(*) code oprimaztion.
+	(*) bugs fixed.
+
+V 3.610
+	(*) Error and result protocol updated.
+
+V 3.543
+	(*) bugs with // raised error.
+
+V 3.542
+	(*) bugs with // raised error.
+
+V 3.540
+	(*) Added / and // function.
+
+V 3.520
+	(*) Added the ^ as power.
+	(*) code optimaztion.
+
+V 3.511
+	(*) Double enter close the calculator.
+
+V 3.510
+	(*) Choose function now works.
+	(*) Minor bugs fixed.
+
+V 3.438
+	(*) Bugs fixed.
+	(*) Code optimization
+
+V 3.434
+	(*) Minor bugs fixed.
+
+V 3.432
+	(*) Minor bugs fixed at delete after fix.
+
+V 3.431
+	(*) Minor bugs fixed at 'fix' function.
+
+V 3.43
+	(*) Added fix function for missed multipling.
+
+V 3.42
+	(*) Error messafe when getting error.
+
+
+V 3.41
+	(*) Calculator able to calculate new formula's.
+
+V 3.4
+	(*) Calculator now show the user the formula result.
+	(*) Minor bugs fixed.
+	(*) result disapear after user write input again.
+
+V 3.2
+	(*) Added clear Screen function
+	(*) Added delete function
+
+V 3.1
+	(*) Calculator now react to input.
+	(*) Added a goodbye script.
+
+V 3.0
+	(*) Functions built
+
+V 2.11
+	(*) Functions name fixed.
+
+V 2.10
+	(*) Spaces between letter fixed.
+
+V 2.01
+	(*) Font size on calculator changed to 20.
+
+V 2.0
+	(*) Built screen GUI for calculator
+
+V 1.72
+	(*) bug fixed for XcY function,
+		you may use now memory variable only if they are alone in the line (F.E '3 + a + 5'),
+		don't attach them togther.
+
+	(*) watch out of memory variable 'c', you mat use it as 'c' / 'C',
+		if you will write it together with number it will think you may want to use XcY.
+
